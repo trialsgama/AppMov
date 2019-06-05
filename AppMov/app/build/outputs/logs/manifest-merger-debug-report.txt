@@ -1,0 +1,202 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/lean/AndroidStudioProjects/AppMov/app/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /home/lean/AndroidStudioProjects/AppMov/app/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /home/lean/AndroidStudioProjects/AppMov/app/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /home/lean/AndroidStudioProjects/AppMov/app/src/main/AndroidManifest.xml:2:1-35:12
+MERGED from [com.android.support:design:28.0.0] /home/lean/.gradle/caches/transforms-2/files-2.1/873815fd4e86f1c6d630c4217f7954a5/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/lean/.gradle/caches/transforms-2/files-2.1/ba69e84c1ef9ab31df2c92fdd0901e07/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/lean/.gradle/caches/transforms-2/files-2.1/54e589de34bca53a83718d90c3d866d7/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:28.0.0] /home/lean/.gradle/caches/transforms-2/files-2.1/d7f9ad3c08e6e1862e6c6376a80b3f76/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/lean/.gradle/caches/transforms-2/files-2.1/e87b359355dc7929cd092e2ed36b5d28/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/lean/.gradle/caches/transforms-2/files-2.1/4573b2bd512c92872840be040b8c97ba/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/lean/.gradle/caches/transforms-2/files-2.1/9b5aec8396b452660af3b9d616a6ae94/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/lean/.gradle/caches/transforms-2/files-2.1/adefe9d0b27d6fbaf3bf1012a7af38fc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/lean/.gradle/caches/transforms-2/files-2.1/1608bc5c5e7afa8835896b23a4ec047e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/lean/.gradle/caches/transforms-2/files-2.1/51f72d9ec9e4b5ac410104046a0a2631/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/lean/.gradle/caches/transforms-2/files-2.1/f8a1c600a76ace6d31311560633caa41/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /home/lean/.gradle/caches/transforms-2/files-2.1/accb973acc1e85579d4325058a2792be/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/lean/.gradle/caches/transforms-2/files-2.1/548e4494818cd18315e607d59415a341/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/lean/.gradle/caches/transforms-2/files-2.1/ca373128763ebad200eb590ebcbdb44f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/lean/.gradle/caches/transforms-2/files-2.1/24991fac4c0345b90f662279a2a6953e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/lean/.gradle/caches/transforms-2/files-2.1/95812ad36341250526d48d931bec4558/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/lean/.gradle/caches/transforms-2/files-2.1/f220c7c3133b965a441e81ebbbd24bdb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/lean/.gradle/caches/transforms-2/files-2.1/84c21ccf5f85b96c50ef5b2d8d311b05/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/lean/.gradle/caches/transforms-2/files-2.1/8407ee241e25de40eba7f54502bf5c8c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/lean/.gradle/caches/transforms-2/files-2.1/4ec00b2a8090c43984d118f4a315c172/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/lean/.gradle/caches/transforms-2/files-2.1/7e9449ed13dc76e99737f97aec54a50a/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/lean/.gradle/caches/transforms-2/files-2.1/17951c58aabce95c7cd23cb6702c99d2/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/lean/.gradle/caches/transforms-2/files-2.1/23fc4e8b02abfa72103e2f08057d7ab7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/lean/.gradle/caches/transforms-2/files-2.1/6e116b975b314db57d4d50b569677eb2/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/lean/.gradle/caches/transforms-2/files-2.1/aad812549b65b304affbab7bd7d5237e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/lean/.gradle/caches/transforms-2/files-2.1/e4a36fe71cd1c05d9492ccf4667c4c10/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/lean/.gradle/caches/transforms-2/files-2.1/28d62b872393b994d19fb8ef76648a0b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/lean/.gradle/caches/transforms-2/files-2.1/46338a8965886057ae2af57b1a54a11f/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/lean/.gradle/caches/transforms-2/files-2.1/c690cdf20c90f2972263f09843e8509a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/lean/.gradle/caches/transforms-2/files-2.1/75b2cb4e8df292a3af6ced66c943c2b5/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/lean/.gradle/caches/transforms-2/files-2.1/df44ddb9498c803326e37f9a04468d20/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/lean/.gradle/caches/transforms-2/files-2.1/4cae096f020af7674c9ce75b2e453e8c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/lean/.gradle/caches/transforms-2/files-2.1/3cb21b32736ec670bd374f65605d4308/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/lean/AndroidStudioProjects/AppMov/app/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /home/lean/AndroidStudioProjects/AppMov/app/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /home/lean/AndroidStudioProjects/AppMov/app/src/main/AndroidManifest.xml:2:1-35:12
+	package
+		ADDED from /home/lean/AndroidStudioProjects/AppMov/app/src/main/AndroidManifest.xml:3:5-33
+		INJECTED from /home/lean/AndroidStudioProjects/AppMov/app/src/main/AndroidManifest.xml
+		INJECTED from /home/lean/AndroidStudioProjects/AppMov/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/lean/AndroidStudioProjects/AppMov/app/src/main/AndroidManifest.xml
+		ADDED from /home/lean/AndroidStudioProjects/AppMov/app/src/main/AndroidManifest.xml:2:1-35:12
+		INJECTED from /home/lean/AndroidStudioProjects/AppMov/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/lean/AndroidStudioProjects/AppMov/app/src/main/AndroidManifest.xml
+		ADDED from /home/lean/AndroidStudioProjects/AppMov/app/src/main/AndroidManifest.xml:2:1-35:12
+		INJECTED from /home/lean/AndroidStudioProjects/AppMov/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/lean/AndroidStudioProjects/AppMov/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/lean/AndroidStudioProjects/AppMov/app/src/main/AndroidManifest.xml:5:5-33:19
+MERGED from [com.android.support:design:28.0.0] /home/lean/.gradle/caches/transforms-2/files-2.1/873815fd4e86f1c6d630c4217f7954a5/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /home/lean/.gradle/caches/transforms-2/files-2.1/873815fd4e86f1c6d630c4217f7954a5/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/lean/.gradle/caches/transforms-2/files-2.1/54e589de34bca53a83718d90c3d866d7/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/lean/.gradle/caches/transforms-2/files-2.1/54e589de34bca53a83718d90c3d866d7/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /home/lean/.gradle/caches/transforms-2/files-2.1/7e9449ed13dc76e99737f97aec54a50a/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/lean/.gradle/caches/transforms-2/files-2.1/7e9449ed13dc76e99737f97aec54a50a/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/lean/.gradle/caches/transforms-2/files-2.1/17951c58aabce95c7cd23cb6702c99d2/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/lean/.gradle/caches/transforms-2/files-2.1/17951c58aabce95c7cd23cb6702c99d2/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/lean/.gradle/caches/transforms-2/files-2.1/7e9449ed13dc76e99737f97aec54a50a/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /home/lean/AndroidStudioProjects/AppMov/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /home/lean/AndroidStudioProjects/AppMov/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /home/lean/AndroidStudioProjects/AppMov/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /home/lean/AndroidStudioProjects/AppMov/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /home/lean/AndroidStudioProjects/AppMov/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/lean/AndroidStudioProjects/AppMov/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.appmov.MenuPrincipalListActivity
+ADDED from /home/lean/AndroidStudioProjects/AppMov/app/src/main/AndroidManifest.xml:12:9-15:68
+	android:label
+		ADDED from /home/lean/AndroidStudioProjects/AppMov/app/src/main/AndroidManifest.xml:14:13-61
+	android:theme
+		ADDED from /home/lean/AndroidStudioProjects/AppMov/app/src/main/AndroidManifest.xml:15:13-56
+	android:name
+		ADDED from /home/lean/AndroidStudioProjects/AppMov/app/src/main/AndroidManifest.xml:13:13-54
+activity#com.example.appmov.MenuPrincipalDetailActivity
+ADDED from /home/lean/AndroidStudioProjects/AppMov/app/src/main/AndroidManifest.xml:16:9-24:20
+	android:parentActivityName
+		ADDED from /home/lean/AndroidStudioProjects/AppMov/app/src/main/AndroidManifest.xml:19:13-68
+	android:label
+		ADDED from /home/lean/AndroidStudioProjects/AppMov/app/src/main/AndroidManifest.xml:18:13-63
+	android:theme
+		ADDED from /home/lean/AndroidStudioProjects/AppMov/app/src/main/AndroidManifest.xml:20:13-56
+	android:name
+		ADDED from /home/lean/AndroidStudioProjects/AppMov/app/src/main/AndroidManifest.xml:17:13-56
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /home/lean/AndroidStudioProjects/AppMov/app/src/main/AndroidManifest.xml:21:13-23:80
+	android:value
+		ADDED from /home/lean/AndroidStudioProjects/AppMov/app/src/main/AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from /home/lean/AndroidStudioProjects/AppMov/app/src/main/AndroidManifest.xml:22:17-63
+activity#com.example.appmov.Registro
+ADDED from /home/lean/AndroidStudioProjects/AppMov/app/src/main/AndroidManifest.xml:25:9-46
+	android:name
+		ADDED from /home/lean/AndroidStudioProjects/AppMov/app/src/main/AndroidManifest.xml:25:19-43
+activity#com.example.appmov.MainActivity
+ADDED from /home/lean/AndroidStudioProjects/AppMov/app/src/main/AndroidManifest.xml:26:9-32:20
+	android:name
+		ADDED from /home/lean/AndroidStudioProjects/AppMov/app/src/main/AndroidManifest.xml:26:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/lean/AndroidStudioProjects/AppMov/app/src/main/AndroidManifest.xml:27:13-31:29
+action#android.intent.action.MAIN
+ADDED from /home/lean/AndroidStudioProjects/AppMov/app/src/main/AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from /home/lean/AndroidStudioProjects/AppMov/app/src/main/AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/lean/AndroidStudioProjects/AppMov/app/src/main/AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from /home/lean/AndroidStudioProjects/AppMov/app/src/main/AndroidManifest.xml:30:27-74
+uses-sdk
+INJECTED from /home/lean/AndroidStudioProjects/AppMov/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/lean/AndroidStudioProjects/AppMov/app/src/main/AndroidManifest.xml
+INJECTED from /home/lean/AndroidStudioProjects/AppMov/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] /home/lean/.gradle/caches/transforms-2/files-2.1/873815fd4e86f1c6d630c4217f7954a5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /home/lean/.gradle/caches/transforms-2/files-2.1/873815fd4e86f1c6d630c4217f7954a5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/lean/.gradle/caches/transforms-2/files-2.1/ba69e84c1ef9ab31df2c92fdd0901e07/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/lean/.gradle/caches/transforms-2/files-2.1/ba69e84c1ef9ab31df2c92fdd0901e07/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/lean/.gradle/caches/transforms-2/files-2.1/54e589de34bca53a83718d90c3d866d7/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/lean/.gradle/caches/transforms-2/files-2.1/54e589de34bca53a83718d90c3d866d7/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:28.0.0] /home/lean/.gradle/caches/transforms-2/files-2.1/d7f9ad3c08e6e1862e6c6376a80b3f76/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /home/lean/.gradle/caches/transforms-2/files-2.1/d7f9ad3c08e6e1862e6c6376a80b3f76/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/lean/.gradle/caches/transforms-2/files-2.1/e87b359355dc7929cd092e2ed36b5d28/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/lean/.gradle/caches/transforms-2/files-2.1/e87b359355dc7929cd092e2ed36b5d28/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/lean/.gradle/caches/transforms-2/files-2.1/4573b2bd512c92872840be040b8c97ba/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/lean/.gradle/caches/transforms-2/files-2.1/4573b2bd512c92872840be040b8c97ba/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/lean/.gradle/caches/transforms-2/files-2.1/9b5aec8396b452660af3b9d616a6ae94/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/lean/.gradle/caches/transforms-2/files-2.1/9b5aec8396b452660af3b9d616a6ae94/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/lean/.gradle/caches/transforms-2/files-2.1/adefe9d0b27d6fbaf3bf1012a7af38fc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/lean/.gradle/caches/transforms-2/files-2.1/adefe9d0b27d6fbaf3bf1012a7af38fc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/lean/.gradle/caches/transforms-2/files-2.1/1608bc5c5e7afa8835896b23a4ec047e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/lean/.gradle/caches/transforms-2/files-2.1/1608bc5c5e7afa8835896b23a4ec047e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/lean/.gradle/caches/transforms-2/files-2.1/51f72d9ec9e4b5ac410104046a0a2631/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/lean/.gradle/caches/transforms-2/files-2.1/51f72d9ec9e4b5ac410104046a0a2631/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/lean/.gradle/caches/transforms-2/files-2.1/f8a1c600a76ace6d31311560633caa41/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/lean/.gradle/caches/transforms-2/files-2.1/f8a1c600a76ace6d31311560633caa41/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /home/lean/.gradle/caches/transforms-2/files-2.1/accb973acc1e85579d4325058a2792be/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /home/lean/.gradle/caches/transforms-2/files-2.1/accb973acc1e85579d4325058a2792be/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/lean/.gradle/caches/transforms-2/files-2.1/548e4494818cd18315e607d59415a341/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/lean/.gradle/caches/transforms-2/files-2.1/548e4494818cd18315e607d59415a341/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/lean/.gradle/caches/transforms-2/files-2.1/ca373128763ebad200eb590ebcbdb44f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/lean/.gradle/caches/transforms-2/files-2.1/ca373128763ebad200eb590ebcbdb44f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/lean/.gradle/caches/transforms-2/files-2.1/24991fac4c0345b90f662279a2a6953e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/lean/.gradle/caches/transforms-2/files-2.1/24991fac4c0345b90f662279a2a6953e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/lean/.gradle/caches/transforms-2/files-2.1/95812ad36341250526d48d931bec4558/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/lean/.gradle/caches/transforms-2/files-2.1/95812ad36341250526d48d931bec4558/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/lean/.gradle/caches/transforms-2/files-2.1/f220c7c3133b965a441e81ebbbd24bdb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/lean/.gradle/caches/transforms-2/files-2.1/f220c7c3133b965a441e81ebbbd24bdb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/lean/.gradle/caches/transforms-2/files-2.1/84c21ccf5f85b96c50ef5b2d8d311b05/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/lean/.gradle/caches/transforms-2/files-2.1/84c21ccf5f85b96c50ef5b2d8d311b05/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/lean/.gradle/caches/transforms-2/files-2.1/8407ee241e25de40eba7f54502bf5c8c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/lean/.gradle/caches/transforms-2/files-2.1/8407ee241e25de40eba7f54502bf5c8c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/lean/.gradle/caches/transforms-2/files-2.1/4ec00b2a8090c43984d118f4a315c172/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/lean/.gradle/caches/transforms-2/files-2.1/4ec00b2a8090c43984d118f4a315c172/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/lean/.gradle/caches/transforms-2/files-2.1/7e9449ed13dc76e99737f97aec54a50a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/lean/.gradle/caches/transforms-2/files-2.1/7e9449ed13dc76e99737f97aec54a50a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/lean/.gradle/caches/transforms-2/files-2.1/17951c58aabce95c7cd23cb6702c99d2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/lean/.gradle/caches/transforms-2/files-2.1/17951c58aabce95c7cd23cb6702c99d2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/lean/.gradle/caches/transforms-2/files-2.1/23fc4e8b02abfa72103e2f08057d7ab7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/lean/.gradle/caches/transforms-2/files-2.1/23fc4e8b02abfa72103e2f08057d7ab7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/lean/.gradle/caches/transforms-2/files-2.1/6e116b975b314db57d4d50b569677eb2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/lean/.gradle/caches/transforms-2/files-2.1/6e116b975b314db57d4d50b569677eb2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/lean/.gradle/caches/transforms-2/files-2.1/aad812549b65b304affbab7bd7d5237e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/lean/.gradle/caches/transforms-2/files-2.1/aad812549b65b304affbab7bd7d5237e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/lean/.gradle/caches/transforms-2/files-2.1/e4a36fe71cd1c05d9492ccf4667c4c10/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/lean/.gradle/caches/transforms-2/files-2.1/e4a36fe71cd1c05d9492ccf4667c4c10/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/lean/.gradle/caches/transforms-2/files-2.1/28d62b872393b994d19fb8ef76648a0b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/lean/.gradle/caches/transforms-2/files-2.1/28d62b872393b994d19fb8ef76648a0b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/lean/.gradle/caches/transforms-2/files-2.1/46338a8965886057ae2af57b1a54a11f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/lean/.gradle/caches/transforms-2/files-2.1/46338a8965886057ae2af57b1a54a11f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/lean/.gradle/caches/transforms-2/files-2.1/c690cdf20c90f2972263f09843e8509a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/lean/.gradle/caches/transforms-2/files-2.1/c690cdf20c90f2972263f09843e8509a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/lean/.gradle/caches/transforms-2/files-2.1/75b2cb4e8df292a3af6ced66c943c2b5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/lean/.gradle/caches/transforms-2/files-2.1/75b2cb4e8df292a3af6ced66c943c2b5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/lean/.gradle/caches/transforms-2/files-2.1/df44ddb9498c803326e37f9a04468d20/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/lean/.gradle/caches/transforms-2/files-2.1/df44ddb9498c803326e37f9a04468d20/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/lean/.gradle/caches/transforms-2/files-2.1/4cae096f020af7674c9ce75b2e453e8c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/lean/.gradle/caches/transforms-2/files-2.1/4cae096f020af7674c9ce75b2e453e8c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/lean/.gradle/caches/transforms-2/files-2.1/3cb21b32736ec670bd374f65605d4308/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/lean/.gradle/caches/transforms-2/files-2.1/3cb21b32736ec670bd374f65605d4308/AndroidManifest.xml:20:5-44
+INJECTED from /home/lean/AndroidStudioProjects/AppMov/app/src/main/AndroidManifest.xml
+INJECTED from /home/lean/AndroidStudioProjects/AppMov/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/lean/AndroidStudioProjects/AppMov/app/src/main/AndroidManifest.xml
+		ADDED from /home/lean/AndroidStudioProjects/AppMov/app/src/main/AndroidManifest.xml
+		INJECTED from /home/lean/AndroidStudioProjects/AppMov/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/lean/AndroidStudioProjects/AppMov/app/src/main/AndroidManifest.xml
+		ADDED from /home/lean/AndroidStudioProjects/AppMov/app/src/main/AndroidManifest.xml
+		INJECTED from /home/lean/AndroidStudioProjects/AppMov/app/src/main/AndroidManifest.xml
